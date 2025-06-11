@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @flecha05
-- 👀 I'm looking for opportunities to improve my developer skills.
-- 🌱 I'm currently studying Electronics Engineering
-- 💞️ Passionate about technology and love learning how to build innovative solutions by combining hardware and software.
+- 👀
+- 🌱
 - 📫 Let's connect on LinkedIn! --https://www.linkedin.com/in/facundo-flecha/
